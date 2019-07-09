@@ -5,10 +5,17 @@ export default class TodoListContentItem extends Component{
         super(props);
     }
 
+    onRemove = () => {
+        this.props.removeFromItems(this.props.index)
+    };
+
     render() {
         const { item } = this.props;
         return(
-            <li>{ item }</li>
+            <li>
+                { item }
+                <button type="submit" onClick={this.onRemove}> x </button>
+            </li>
         );   
     }
 }
