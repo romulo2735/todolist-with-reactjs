@@ -12,9 +12,9 @@ export default class TodoListContentItem extends Component{
     render() {
         const { item } = this.props;
         return(
-            <li>
+            <li className="list-group-item">
                 { item }
-                <button type="submit" onClick={this.onRemove}> x </button>
+                <button className="btn btn-danger" type="submit" onClick={this.onRemove}>remove</button>
             </li>
         );   
     }

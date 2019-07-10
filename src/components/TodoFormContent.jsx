@@ -31,7 +31,7 @@ export default class TodoForm extends Component {
         return(
             <div>
                 <div className="form-group">
-                    <input type="text" value={todo} name="todo" placeholder="Enter Todo here" onChange={ this.onChange }/>
+                    <input  className="form-control" type="text" value={todo} name="todo" placeholder="Enter Todo here" onChange={ this.onChange }/>
                 </div>
                 <div className="form-group">
                     <button className="btn btn-primary" type="submit" onClick={ this.onAdd }>Create</button>

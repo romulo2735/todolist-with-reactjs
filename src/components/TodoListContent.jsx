@@ -4,7 +4,7 @@ import  TodoListContentItem from './TodoListContentItem';
 export const TodoListContent = (props) => {
     const { items, removeFromItems } = props;
     return (
-        <ul>
+        <ul className="list-group">
         {
             items.map((item,index) => (
                 <TodoListContentItem  key={index} index={index} item={item} removeFromItems={removeFromItems()}/>
