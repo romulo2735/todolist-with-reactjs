@@ -14,7 +14,7 @@ export default class TodoListContentItem extends Component{
         return(
             <li className="list-group-item">
                 { item }
-                <button className="btn btn-danger" type="submit" onClick={this.onRemove}>remove</button>
+                <button className="btn btn-danger" type="submit" onClick={this.onRemove()}>remove</button>
             </li>
         );   
     }
