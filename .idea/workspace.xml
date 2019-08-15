@@ -3,22 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="7ab45f72-80ae-4301-aa14-982e65384493" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/TodoFormContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoFormContent.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/TodoListContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoListContent.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/TodoListContentItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoListContentItem.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/container/TodoListApp.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/TodoListApp.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -90,6 +91,11 @@
       </list>
     </option>
   </component>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> Stashed changes
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -101,15 +107,17 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="114" />
     <option name="width" value="1440" />
     <option name="height" value="789" />
   </component>
+  <component name="ProjectId" id="1OaxK1lsiZRWtevLztne4KeIWSh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -119,11 +127,17 @@
       <pane id="ProjectPane" />
     </panes>
   </component>
+=======
+>>>>>>> Stashed changes
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-redux-avancado" />
+>>>>>>> Stashed changes
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -132,6 +146,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -160,6 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562689338913</updated>
+<<<<<<< Updated upstream
       <workItem from="1562689340502" duration="6983000" />
       <workItem from="1562759810125" duration="7000" />
       <workItem from="1562759858484" duration="3227000" />
@@ -257,5 +273,39 @@
         </state>
       </provider>
     </entry>
+=======
+      <workItem from="1562689340502" duration="5479000" />
+      <workItem from="1562724360431" duration="236000" />
+      <workItem from="1562886440453" duration="123000" />
+      <workItem from="1563714729830" duration="31000" />
+      <workItem from="1564229213673" duration="85000" />
+      <workItem from="1564229447777" duration="107000" />
+      <workItem from="1564229589474" duration="54000" />
+      <workItem from="1564229687860" duration="96000" />
+      <workItem from="1564229797524" duration="23000" />
+      <workItem from="1564795112176" duration="29000" />
+      <workItem from="1565058341447" duration="38000" />
+      <workItem from="1565058393919" duration="76000" />
+      <workItem from="1565058482537" duration="51000" />
+      <workItem from="1565058546386" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> Stashed changes
   </component>
 </project>
